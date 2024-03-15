@@ -35,7 +35,7 @@ namespace RareCrewAssignment.Website.Controllers
         {
             return new EmployeeTasksViewModel
             {
-                EmpployeeTasks = (await _employeeTasksService.GetAll(apiUrl)).Where(x => x.DeletedOn is null).GroupBy(x => x.EmployeeName).Select(x=>new EmployeeTaskViewModel
+                EmpployeeTasks = (await _employeeTasksService.GetAll(apiUrl))?.Where(x => x.DeletedOn is null).GroupBy(x => x.EmployeeName).Select(x=>new EmployeeTaskViewModel
                     {
                         EmployeeName = x.Key ?? "Employee without name",
                         TotalHoursWorked = Math.Round(x.Sum(e=>(e.EndTimeUtc-e.StarTimeUtc).TotalHours),2)
