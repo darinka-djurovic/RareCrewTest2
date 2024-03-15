@@ -1,0 +1,25 @@
+﻿@model EmployeeTasksViewModel
+@{
+    ViewData["Title"] = "RareCrew Assignment";
+}
+
+<div class="container">
+    <h3 class="text-center">Employee Hours Worked</h3>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Employee Name</th>
+            <th>Total Hours Worked</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var employeeTask in Model.EmpployeeTasks)
+        {
+            <tr style="@(employeeTask.TotalHoursWorked < 100 ? "background-color: #f8d7da;" : "")">
+                <td>@employeeTask.EmployeeName</td>
+                <td>@employeeTask.TotalHoursWorked</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

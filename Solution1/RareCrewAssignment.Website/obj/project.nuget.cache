@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7x1L16repbXaOEqGAtLqrcN71nlV59hnRhwwsFi8Rkad5W7pzvvoj1POgLAEvMSvbNxskzXD2oIAdV8gNgkyA==",
+  "success": true,
+  "projectFilePath": "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Website/RareCrewAssignment.Website.csproj",
+  "expectedPackageFiles": [
+    "/home/darinkadjurovic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.2.24128.5/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/home/darinkadjurovic/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

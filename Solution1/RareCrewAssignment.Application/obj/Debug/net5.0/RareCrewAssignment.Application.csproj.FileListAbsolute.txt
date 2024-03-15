@@ -1,0 +1,15 @@
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/bin/Debug/net5.0/RareCrewAssignment.Application.deps.json
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/bin/Debug/net5.0/RareCrewAssignment.Application.dll
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/bin/Debug/net5.0/RareCrewAssignment.Application.pdb
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/bin/Debug/net5.0/RareCrewAssignment.Domain.dll
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/bin/Debug/net5.0/RareCrewAssignment.Domain.pdb
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/RareCrewAssignment.Application.csproj.AssemblyReference.cache
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/RareCrewAssignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/RareCrewAssignment.Application.AssemblyInfoInputs.cache
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/RareCrewAssignment.Application.AssemblyInfo.cs
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/RareCrewAssignment.Application.csproj.CoreCompileInputs.cache
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/RareCrewAssignment.Application.csproj.CopyComplete
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/RareCrewAssignment.Application.dll
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/refint/RareCrewAssignment.Application.dll
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/RareCrewAssignment.Application.pdb
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/Debug/net5.0/ref/RareCrewAssignment.Application.dll

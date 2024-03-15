@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/RareCrewAssignment.Application.csproj": {}
+  },
+  "projects": {
+    "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/RareCrewAssignment.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/RareCrewAssignment.Application.csproj",
+        "projectName": "RareCrewAssignment.Application",
+        "projectPath": "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/RareCrewAssignment.Application.csproj",
+        "packagesPath": "/home/darinkadjurovic/.nuget/packages/",
+        "outputPath": "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/darinkadjurovic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/RareCrewAssignment.Domain.csproj": {
+                "projectPath": "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/RareCrewAssignment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0-preview.2.24128.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/RareCrewAssignment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/RareCrewAssignment.Domain.csproj",
+        "projectName": "RareCrewAssignment.Domain",
+        "projectPath": "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/RareCrewAssignment.Domain.csproj",
+        "packagesPath": "/home/darinkadjurovic/.nuget/packages/",
+        "outputPath": "/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/darinkadjurovic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

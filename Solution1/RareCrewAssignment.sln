@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RareCrewAssignment.Website", "RareCrewAssignment.Website\RareCrewAssignment.Website.csproj", "{9BE3D31D-1984-45BD-883D-0D59221125F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RareCrewAssignment.Domain", "RareCrewAssignment.Domain\RareCrewAssignment.Domain.csproj", "{1C0E95DA-FDFE-4CD5-84A9-58E4254466ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RareCrewAssignment.Application", "RareCrewAssignment.Application\RareCrewAssignment.Application.csproj", "{897F0282-67B3-42B4-BA02-692B737D2CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE3D31D-1984-45BD-883D-0D59221125F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE3D31D-1984-45BD-883D-0D59221125F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE3D31D-1984-45BD-883D-0D59221125F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE3D31D-1984-45BD-883D-0D59221125F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0E95DA-FDFE-4CD5-84A9-58E4254466ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0E95DA-FDFE-4CD5-84A9-58E4254466ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0E95DA-FDFE-4CD5-84A9-58E4254466ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0E95DA-FDFE-4CD5-84A9-58E4254466ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897F0282-67B3-42B4-BA02-692B737D2CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897F0282-67B3-42B4-BA02-692B737D2CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897F0282-67B3-42B4-BA02-692B737D2CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897F0282-67B3-42B4-BA02-692B737D2CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

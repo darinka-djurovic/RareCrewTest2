@@ -1,0 +1,11 @@
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/bin/Debug/net5.0/RareCrewAssignment.Domain.deps.json
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/bin/Debug/net5.0/RareCrewAssignment.Domain.dll
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/bin/Debug/net5.0/RareCrewAssignment.Domain.pdb
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/Debug/net5.0/RareCrewAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/Debug/net5.0/RareCrewAssignment.Domain.AssemblyInfoInputs.cache
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/Debug/net5.0/RareCrewAssignment.Domain.AssemblyInfo.cs
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/Debug/net5.0/RareCrewAssignment.Domain.csproj.CoreCompileInputs.cache
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/Debug/net5.0/RareCrewAssignment.Domain.dll
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/Debug/net5.0/refint/RareCrewAssignment.Domain.dll
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/Debug/net5.0/RareCrewAssignment.Domain.pdb
+/home/darinkadjurovic/RiderProjects/RareCrewTest2/Solution1/RareCrewAssignment.Domain/obj/Debug/net5.0/ref/RareCrewAssignment.Domain.dll
